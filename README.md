@@ -97,6 +97,46 @@ A deep analysis of the legacy codebase uncovered several compile-time and runtim
 
 ---
 
+## 🛠️ Environment Setup Instructions
+
+To set up your local development environment for running both Python and Java programs:
+
+### 1. Python Environment Setup
+1. **Verify Python Installation**: Ensure Python 3.10 or higher is installed:
+   ```bash
+   python --version
+   ```
+2. **Create a Virtual Environment**: It is recommended to use a virtual environment:
+   ```bash
+   python -m venv .venv
+   ```
+3. **Activate the Virtual Environment**:
+   - **Windows (PowerShell)**:
+     ```powershell
+     .venv\Scripts\Activate.ps1
+     ```
+   - **Windows (Command Prompt)**:
+     ```cmd
+     .venv\Scripts\activate.bat
+     ```
+   - **macOS / Linux**:
+     ```bash
+     source .venv/bin/activate
+     ```
+
+### 2. Java Environment Setup
+1. **Install Java Development Kit (JDK)**: Ensure JDK 8 or higher is installed.
+2. **Configure Environment Variables**:
+   - Set the `JAVA_HOME` environment variable pointing to your JDK installation directory (e.g., `C:\Program Files\Java\jdk-17`).
+   - Add the JDK binary path (e.g., `%JAVA_HOME%\bin` on Windows or `$JAVA_HOME/bin` on macOS/Linux) to your system `PATH` variable.
+3. **Verify Java Compiler Installation**:
+   ```bash
+   java -version
+   javac -version
+   ```
+
+---
+
 ## 🚀 Running the Project
 
 ### Python Entry Point & CLI Menu (Recommended)
