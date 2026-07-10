@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="License">
   <img src="https://img.shields.io/badge/Tests-Passed-brightgreen?style=flat&logo=github" alt="Tests Passed">
   <img src="https://img.shields.io/badge/Code_Quality-PEP_8-blueviolet?style=flat" alt="PEP 8 Quality">
+  <img src="https://img.shields.io/github/stars/Shweta-Mishra-ai/core-java?style=social" alt="GitHub Stars">
 </p>
 
 <p align="center">
@@ -176,3 +177,15 @@ java com.corejava.math.Disarium
 - **License**: Released under the standard [MIT License](LICENSE).
 - **Python Quality**: Strictly formatted to follow **PEP 8 guidelines** (4-space indentations, camel-cased classes, snake-cased variables, clear type annotations, and docstrings).
 - **Language**: All code logs, console print statements, comments, and document files are written in standard, professional English.
+
+---
+
+## ⭐ Give a Star!
+
+If you find this repository helpful for your studies or code practices, please show your support by **giving this repository a star**! It helps others discover the project.
+
+1. Go to the top right of the [GitHub repository page](https://github.com/Shweta-Mishra-ai/core-java).
+2. Click the **Star** button.
+
+Thank you!
+
